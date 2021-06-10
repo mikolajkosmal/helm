@@ -1,4 +1,4 @@
-name: mikolajkosmal Helm Action
+name: Upgrade Helm Action
 description: Deploys a helm chart
 author: deliverybot
 icon: box
