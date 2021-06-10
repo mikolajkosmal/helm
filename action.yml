@@ -1,4 +1,4 @@
-name: Helm Deploy
+name: Deploy Helm Action
 description: Deploys a helm chart
 author: deliverybot
 icon: box
